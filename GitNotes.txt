@@ -1,0 +1,5 @@
+To copy a repository to a local directory we use the following command in the directory:
+    git clone <url>
+
+To stage a file for commit we use the following command:
+    git add <file>
