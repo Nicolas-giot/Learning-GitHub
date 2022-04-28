@@ -3,3 +3,9 @@ To copy a repository to a local directory we use the following command in the di
 
 To stage a file for commit we use the following command:
     git add <file>
+
+Commits a file to the local repository
+    git commit -m "message"
+
+Push changes to a remote branch
+    git push origin <branch>
